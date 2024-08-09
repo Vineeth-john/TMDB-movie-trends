@@ -33,8 +33,7 @@ This project involves analyzing a dataset of movies to gain insights into variou
 ## Data Science Techniques
 - **Statistical Analysis**: Applied statistical methods to uncover trends and correlations.
 - **Data Visualization**: Utilized libraries like Matplotlib and Seaborn to create visual representations of the data.
-- **Machine Learning**:
-  - Implemented regression models to predict outcomes related to movie performance.
+- **Machine Learning**: Implemented regression models to predict outcomes related to movie performance.
 
 ## Conclusion
 This project demonstrates the application of advanced data science methodologies to extract actionable insights from a complex movie dataset. The analyses provide a comprehensive understanding of the factors influencing box office performance, offering valuable information for strategic decision-making in the film industry.
